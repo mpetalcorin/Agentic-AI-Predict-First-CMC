@@ -1,7 +1,5 @@
-# Agentic-AI-Predict-First-CMC
-Auditable, journal-benchmarked proof-of-concept for predict-first formulation and CMC using multi-endpoint ML with uncertainty, Pareto triage, active learning, and agentic orchestration.
-
 # Agentic AI for Predict-First Formulation and CMC 
+Auditable, journal-benchmarked proof-of-concept for predict-first formulation and CMC using multi-endpoint ML with uncertainty, Pareto triage, active learning, and agentic orchestration.
 
 An end-to-end, auditable proof-of-concept that simulates journal-anchored formulation/CMC datasets, trains multi-endpoint predictive models with uncertainty, performs multi-objective Pareto triage, runs active-learning experiment selection, and logs a tool-using agent workflow while producing publication-ready figures and tables.
 
