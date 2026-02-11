@@ -2,7 +2,7 @@
 
 ## Motivation
 
-A synthetic dataset was generated to demonstrate an agentic AI and predict-first workflow for formulation/CMC tasks under realistic numeric ranges benchmarked from PubMed-indexed studies.
+A synthetic dataset was generated to demonstrate an agentic AI and predict-first workflow for formulation/CMC tasks under realistic numeric ranges benchmarked from journal-indexed studies.
 
 
 ## Composition
